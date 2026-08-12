@@ -1,4 +1,4 @@
-# Blackstone MasterSpec Formatter
+# Blackstone Engeering MasterSpec Formatter
 
 A Streamlit tool that takes a messy civil engineering spec document and reformats it to match a MasterSpec style template, using a two call OpenAI pipeline.
 
